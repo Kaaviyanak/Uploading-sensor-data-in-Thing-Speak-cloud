@@ -1,7 +1,7 @@
 # Uploading temperature sensor data in Thing Speak cloud
-NAME:K.Dilli Babu
+NAME:K.KAAVIYAN
 
-REG NO:24900561
+REG NO:24006507
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
